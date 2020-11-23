@@ -35,6 +35,6 @@ class ViewController: UIViewController {
         sum += Int(textField5.text!) ?? 0
         kekkaLabel.text = String(sum)
     }
-
 }
+
 
